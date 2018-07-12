@@ -21,7 +21,6 @@ module.exports = {
 				test: /\.vue$/,
 				loader: 'vue-loader',
 				include: [
-					path.resolve('../../shared-lib')
 				]
 			}
 		]
